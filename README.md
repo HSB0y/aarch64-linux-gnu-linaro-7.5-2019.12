@@ -1,16 +1,15 @@
 # Linaro GCC Builds for AArch64 (ARM64)
 
-This repository hosts pre-built versions of **Linaro GCC** targeting the `aarch64-linux-gnu` architecture. These builds are intended for developers working on cross-compilation for ARM64 systems.
+This repository hosts pre-built versions of **Linaro GCC** targeting the `aarch64-linux-gnu` architecture.
 
 ## About
 
-This project compiles and packages **Linaro GCC 7.5-2019.12** for the ARM64 architecture. The builds are tested and verified to work on macOS (with cross-compilers) and Ubuntu x86_64 hosts. 
+This project compiles and packages **Linaro GCC 7.5-2019.12** for the ARM64 architecture.
 
 ### Build Details
 - **Source Code**: [Linaro GCC 7.5 2019.12](https://releases.linaro.org/components/toolchain/gcc-linaro/7.5-2019.12/gcc-linaro-7.5-2019.12.tar.xz)
 - **Version**: 7.5-2019.12
 - **Target**: `aarch64-linux-gnu`
-- **Build Host**: macOS x86_64, Ubuntu x86_64
 
 ## Installation
 
